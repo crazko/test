@@ -1,6 +1,6 @@
 <?php
 
-require 'Foo.php';
+require '01-Foo.php';
 
 class FooTest extends PHPUnit_Framework_TestCase
 {
