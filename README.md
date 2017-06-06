@@ -15,6 +15,7 @@
 - vyskusanie `./vendor/bin/phpunit --version`
 - prvy test
 - composer script
+- fixtures
 - druhy test kalkulacka
 	- TDD
 	- dataProvider
