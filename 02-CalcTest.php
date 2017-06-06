@@ -1,6 +1,6 @@
 <?php
 
-require 'Calc.php';
+require '01-Calc.php';
 
 class CalcTest extends PHPUnit_Framework_TestCase
 {
