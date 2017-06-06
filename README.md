@@ -14,6 +14,7 @@
 - nainstalovanie zavislosti
 - vyskusanie `./vendor/bin/phpunit --version`
 - prvy test
+- composer script
 - druhy test kalkulacka
 	- TDD
 	- dataProvider
