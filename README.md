@@ -2,7 +2,7 @@
 
 - co su testy
 - `echo`, `var_dump`
-- unit, integracne
+- [unit, integracne, akceptacne, ...](https://cs.wikipedia.org/wiki/Testování_softwaru#Stadia_v.C3.BDvoje)
 - rozne nastroje:
 	- [phpunit](https://phpunit.de/index.html), [phpspec](http://www.phpspec.net/en/stable/), [nette/tester](https://tester.nette.org/)
 - strong typing a typova analyza
